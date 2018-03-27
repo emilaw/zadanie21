@@ -1,0 +1,13 @@
+p {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.klasa1 {
+    background-color: aqua;
+}
+
+.klasa2 {
+    opacity: 0.5;
+}
